@@ -2,6 +2,11 @@
 
 **Name:** Waleed
 
+## GitHub Pages
+
+- [Expose (Party Horn)](https://waleedA13.github.io/Lab5_Starter/expose.html)
+- [Explore (Speech Synthesis)](https://waleedA13.github.io/Lab5_Starter/explore.html)
+
 ## Check Your Understanding
 
 **1) Would you use a unit test to test the "message" feature of a messaging application? Why or why not?**
